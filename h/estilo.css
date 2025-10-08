@@ -1,0 +1,38 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cor-azul{
+    color: blue;
+    background-color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.quadrado{
+    background-color: greenyellow;
+    color: black;
+    height: 150px;
+    width: 150px;
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 0px 0px;
+
+}
+
+.quadrado-roxo{
+    background-color: rgb(204, 0, 255);
+    color: black;
+    height: 150px;
+    width: 150px;
+}
+
+.alinhamento{
+    display: flex;
+    justify-content: start ;
+    align-items: end;
+    height: 100vh;
+
+}
