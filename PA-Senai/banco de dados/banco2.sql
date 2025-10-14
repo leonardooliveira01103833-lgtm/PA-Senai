@@ -1,5 +1,5 @@
 -- criando a database 
-CREATE DATABASE escola
+CREATE DATABASE empresa
 
 -- usar a database
 USE escola;
