@@ -7,9 +7,9 @@
 }
 
 .quadrado-azul{
-    background-color: #4f4fc0;
-    height: 150px;
-    width: 150px;
+    background-color: #3006f0;
+    height: 160px;
+    width: 160px;
 }
 
 .linha-1{
@@ -36,7 +36,7 @@
 }
 
 .quadrado-laranja{
-    background-color: orangered;
+    background-color: rgb(241, 147, 7);
     height: 50px;
     width: 50px;
 }
@@ -44,7 +44,7 @@
 .metade{
     height: 50%;
 }
-.metade2{
+.metade_2{
     height: 66%;
 }
 
@@ -63,9 +63,23 @@
     justify-content: end;
 }
 .alinha-coluna{
-    flex-direction: column-reverse;
+    flex-direction: row;
 }
-.metade3{
+.metade_3{
     height: 100%;
 }
-
+.metade_4{
+    height: 33.33333%;
+}
+.alinha-meio-separado{
+    justify-content: space-between;
+}
+.exato{
+    padding: 10px;
+}
+.alinha-direita{
+    justify-content: right;
+}
+.metade_6{
+    height: 69%;
+}
